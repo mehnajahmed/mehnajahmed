@@ -2,7 +2,7 @@
 #### I am a CSE Student 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACTJS / HTML / CSS / Python / JavaScript
+Skills: REACTJS / HTML / CSS / Python / JavaScript / C
 
 - 🔭 I’m currently working on Vehicle Speed Controlling System using Deep Reinforcement Learning 
 - 🌱 I’m currently learning ReactJS 
